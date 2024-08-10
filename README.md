@@ -53,10 +53,6 @@ Contributions are welcome! If you'd like to add a new tool or improve an existin
 6. Open a pull request.
 
 
-## Contact
-
-Developer Name - [@your_twitter](https://twitter.com/your_twitter)
-
 Project Link: [https://github.com/op-3/MiniTools](https://github.com/op-3/MiniTools)
 
 ---
